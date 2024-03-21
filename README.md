@@ -11,3 +11,8 @@
 
 ![Screenshot 2024-03-10 202706](https://github.com/esha1231/Pizza-Management-System/assets/111673084/b9f71c54-55f3-4194-aa7b-2b5c4bbc1015)
 
+![Screenshot 2024-03-10 202734](https://github.com/esha1231/Pizza-Management-System/assets/111673084/649e3b6f-5ca3-4d17-bb3c-b7fc9abe1b91)
+
+![Screenshot 2024-03-10 202751](https://github.com/esha1231/Pizza-Management-System/assets/111673084/4a24f98b-b7fd-4b86-a35b-2c45fe68ae66)
+
+![Screenshot 2024-03-10 203041](https://github.com/esha1231/Pizza-Management-System/assets/111673084/518d7cd0-7d03-4984-94b0-9329235218fd)
